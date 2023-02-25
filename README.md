@@ -1,4 +1,4 @@
-# Submission 1 : Klasifikasi News Article
+# Diabetes Pipeline
 Nama : Aldi Akbar Alimi
 Username Dicoding: alldinosaur
 
