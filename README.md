@@ -1,8 +1,8 @@
 # Diabetes Pipeline
-Nama : Aldi Akbar Alimi
-Username Dicoding: alldinosaur
+- Nama : Aldi Akbar Alimi
+- Username Dicoding: alldinosaur
 
-| | Deskripsi |
+| Menu | Deskripsi |
 | ----------- | ----------- |
 | Dataset | [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset) |
 | Masalah | Diabetes merupakan salah satu penyakit kronis yang disebabkan oleh tingginya kadar gula darah. Seringkali disebabkan oleh pola makan, mengkonsumsi makanan yang tidak sehat, dll. Meskipun tidak ada obat untuk diabetes, strategi seperti menurunkan berat badan, makan dengan sehat, dan menerima perawatan medis dapat mengurangi bahaya penyakit ini.|
